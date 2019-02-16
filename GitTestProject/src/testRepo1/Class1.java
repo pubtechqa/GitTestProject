@@ -8,7 +8,7 @@ public class Class1 {
 	}
 	
 	public void print1(){
-		
+		System.out.println("Green");
 	}
 	
 	
