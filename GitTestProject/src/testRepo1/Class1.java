@@ -11,6 +11,8 @@ public class Class1 {
 		System.out.println("Green");
 	}
 	
-	
+	public void print2(){
+		
+	}
 	
 }
