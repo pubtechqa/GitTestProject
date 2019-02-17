@@ -12,7 +12,7 @@ public class Class1 {
 	}
 	
 	public void print2(){
-		
+		System.out.println("Black");
 	}
 	
 }
